@@ -1,2 +1,2 @@
 # flame
-Flame game 
+Flame game using python 
